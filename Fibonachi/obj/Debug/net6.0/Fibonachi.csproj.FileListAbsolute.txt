@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/Fibonachi.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/Fibonachi.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/Fibonachi.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/Fibonachi.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/bin/Debug/net6.0/Fibonachi
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/bin/Debug/net6.0/Fibonachi.deps.json
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/bin/Debug/net6.0/Fibonachi.runtimeconfig.json
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/bin/Debug/net6.0/Fibonachi.dll
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/bin/Debug/net6.0/Fibonachi.pdb
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/Fibonachi.dll
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/refint/Fibonachi.dll
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/Fibonachi.pdb
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/Fibonachi.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/rekursiya/Fibonachi/obj/Debug/net6.0/ref/Fibonachi.dll
