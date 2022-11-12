@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/bin/Debug/net6.0/Rekursia_algoritm
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/bin/Debug/net6.0/Rekursia_algoritm.deps.json
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/bin/Debug/net6.0/Rekursia_algoritm.runtimeconfig.json
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/bin/Debug/net6.0/Rekursia_algoritm.dll
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/bin/Debug/net6.0/Rekursia_algoritm.pdb
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/Rekursia_algoritm.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/Rekursia_algoritm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/Rekursia_algoritm.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/Rekursia_algoritm.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/Rekursia_algoritm.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/Rekursia_algoritm.dll
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/refint/Rekursia_algoritm.dll
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/Rekursia_algoritm.pdb
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/Rekursia_algoritm.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/rekursiya/Rekursia_algoritm/obj/Debug/net6.0/ref/Rekursia_algoritm.dll
