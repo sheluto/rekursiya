@@ -1,0 +1,5 @@
+/Users/dagorbacheva/Desktop/rekursiya/Image_color/obj/Debug/net6.0/Image_color.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/rekursiya/Image_color/obj/Debug/net6.0/Image_color.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/rekursiya/Image_color/obj/Debug/net6.0/Image_color.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Image_color/obj/Debug/net6.0/Image_color.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/rekursiya/Image_color/obj/Debug/net6.0/Image_color.csproj.CoreCompileInputs.cache
