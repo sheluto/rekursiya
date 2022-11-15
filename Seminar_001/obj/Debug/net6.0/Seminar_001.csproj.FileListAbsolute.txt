@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/Seminar_001.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/Seminar_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/Seminar_001.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/Seminar_001.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/Seminar_001.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/bin/Debug/net6.0/Seminar_001
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/bin/Debug/net6.0/Seminar_001.deps.json
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/bin/Debug/net6.0/Seminar_001.runtimeconfig.json
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/bin/Debug/net6.0/Seminar_001.dll
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/bin/Debug/net6.0/Seminar_001.pdb
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/Seminar_001.dll
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/refint/Seminar_001.dll
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/Seminar_001.pdb
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/Seminar_001.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/rekursiya/Seminar_001/obj/Debug/net6.0/ref/Seminar_001.dll
