@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/Zadacha1.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/Zadacha1.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/Zadacha1.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/Zadacha1.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/bin/Debug/net6.0/Zadacha1
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/bin/Debug/net6.0/Zadacha1.deps.json
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/bin/Debug/net6.0/Zadacha1.runtimeconfig.json
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/bin/Debug/net6.0/Zadacha1.dll
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/bin/Debug/net6.0/Zadacha1.pdb
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/Zadacha1.dll
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/refint/Zadacha1.dll
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/Zadacha1.pdb
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/Zadacha1.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/rekursiya/Zadacha1/obj/Debug/net6.0/ref/Zadacha1.dll
